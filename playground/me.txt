@@ -1,5 +1,0 @@
-{{#user}}
-Name: Kathirvel
-Skills: AWS, DevOps, Docker, CI/CD
-Email: kathirvelt0608@gmail.com
-{{/user}}
